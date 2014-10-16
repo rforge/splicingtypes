@@ -1,0 +1,15 @@
+Package: SplicingTypesAnno
+Title: Annotation tool for alternative splicing types by RNA-Seq data
+Version: 1.0.1
+Date: 2014-09-18
+Depends: R (>= 2.13.0), hwriter, SortableHTMLTables, Rsamtools
+Imports: methods, utils, IRanges, GenomicRanges
+Enhances: snowfall
+Author: Xiaoyong Sun, Fenghua Zuo
+Maintainer: Xiaoyong Sun <johnsunx1@gmail.com>
+Description: This package annotates four major splicing types by RNA-Seq data, including intron retention, exon skipping, alternative donor site, and alternative acceptor site. As a post-processing tool for alignment files, it annotates the alternative splicing types with details at the intron or exon level. 
+License: GPL (>= 2)
+LazyLoad: yes
+biocViews: Bioinformatics, HighThroughputSequencing, RNAseq
+Date/Publication: 2014-09-18 11:29:00
+Packaged: 2014-09-18 14:48:20 UTC; xsun1

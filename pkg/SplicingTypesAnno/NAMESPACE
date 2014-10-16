@@ -1,0 +1,10 @@
+import(IRanges)
+import(GenomicRanges)
+
+
+		   
+export(splicingReport, splicingShowReport, splicingCleanReport, 
+	   splicingGene, combineGene, splicingCount, combineCount, 
+	   translateGTF, updateTRUEIntron)
+
+

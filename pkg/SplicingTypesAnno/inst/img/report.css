@@ -1,0 +1,15 @@
+html,body,table{  margin: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
+table {border-collapse:collapse;border-spacing:0;white-space:normal; width:100%; border:1px #dddddd solid; background-color:#f8f7f7; margin-bottom:10px;}
+td {padding: 5px; border:1px #dddddd solid; }
+* {font-family: Arial, Helvetica, sans-serif;font-size: 15px;}
+th{ padding:5px;}
+.head	{ background:url(bgHead.jpg) repeat-x top;text-align: left; color:#FFF; font-weight:bold;}
+.head2	{text-align: left; color:#190707; font-weight:bold; background-color:#01DF01;}
+.head a,.head a:hover{ color:#FFF;}
+.line1 {background-color:#d4d4d4;}
+.line2 {background-color:#E5EFF9;}
+a, a:visited {color: #2b8dc1;text-decoration: underline;cursor: pointer;}
+a:hover { color:#004f82;text-decoration: underline;}
+.title{ font-weight:bold; padding:12px 0;}
+.date_TIT{ font-weight:100; padding-left:20px;color:#666; text-align:right; font-style:italic; font-size:12px;}
+.bottom{ text-align:right; padding-right:10px; padding:10px 10px 10px 0;}
